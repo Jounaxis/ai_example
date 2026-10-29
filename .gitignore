@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Arquivos gerados pelo RAG
+/vectorstore.json
+/vectorstore.json.bak
